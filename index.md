@@ -5,6 +5,7 @@ title: Dewan Abdullah Al-Mamoon | Physics Researcher
 <!-- <img width="1731" height="2069" alt="photo" src="https://github.com/user-attachments/assets/fab8f14e-36dd-49ec-8737-3d8dc5e0c1e6" /> -->
 <!-- <img src="https://github.com/user-attachments/assets/fab8f14e-36dd-49ec-8737-3d8dc5e0c1e6" width="180" align="right" alt="Profile Picture"> -->
 <!-- <img src="https://github.com/user-attachments/assets/fab8f14e-36dd-49ec-8737-3d8dc5e0c1e6" width="180" style="border-radius: 50%;" alt="Profile Picture"> -->
+
 **Physics Researcher**  
 Currently pursuing an MSc in Applied Physics & Electronics at *Jahangirnagar University, Bangladesh*.  
 Specializing in theoretical and computational research in high energy physics and quantum information processing theory.
