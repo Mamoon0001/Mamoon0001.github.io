@@ -3,7 +3,7 @@ layout: default
 title: Dewan Abdullah Al-Mamoon | Physics Researcher
 ---
 
-<img src="https://github.com/user-attachments/assets/fab8f14e-36dd-49ec-8737-3d8dc5e0c1e6" width="180" align="right" alt="Profile Picture">
+![Profile Picture](https://github.com/Mamoon0001/Mamoon0001.github.io/assets/fab8f14e-36dd-49ec-8737-3d8dc5e0c1e6){: width="180" align="right"}
 
 **Physics Researcher**  
 Currently pursuing an MSc in Applied Physics & Electronics at *Jahangirnagar University, Bangladesh*.  
