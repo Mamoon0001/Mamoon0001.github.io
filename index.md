@@ -27,6 +27,6 @@ Specializing in theoretical and computational research in high energy physics an
 ---
 
 ## 📬 Contact & Links
-*   **Email:** dewanalmamoon@gmai.com
+*   **Email:** dewanalmamoon@gmail.com
 *   **GitHub:** [Your GitHub Profile Link]
 *   **ResearchGate / LinkedIn:** [Your Links Here]
